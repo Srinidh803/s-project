@@ -362,7 +362,7 @@ footer {
 section.hero {
     /*    width: 100%;*/
     height: auto;
-    background: var(--brand-02) url('/own/s-project/s-project/logob.png') no-repeat center right;
+    background: var(--brand-02) url('logob.png') no-repeat center right;
     display: flex;
     flex-direction: column;
     justify-content: center;
